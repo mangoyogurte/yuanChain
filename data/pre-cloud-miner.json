@@ -1,0 +1,111 @@
+{
+	"green_hand": [
+		{
+			"name": "N030",
+			"basic_yield": 0.066,
+			"presented_yield": 0.934,
+			"annual_yield": 182.50,
+			"copies_coin": 200,
+			"copies": 100,
+			"left": 100,
+			"copies_amount": 0.00,
+			"duration": 30
+		}
+	],
+	"90": [
+		{
+			"name": "A090",
+			"basic_yield": 0.33,
+			"presented_yield": 0.033,
+			"annual_yield": 13.07,
+			"copies_coin": 1000,
+			"copies": 100,
+			"left": 100,
+			"copies_amount": 155
+		},
+		{
+			"name": "B090",
+			"basic_yield": 3.3,
+			"presented_yield": 0.66,
+			"annual_yield": 14.26,
+			"copies_coin": 10000,
+			"copies": 100,
+			"left": 100,
+			"copies_amount": 1550
+		},
+		{
+			"name": "C090",
+			"basic_yield": 33,
+			"presented_yield": 13.3,
+			"annual_yield": 16.67,
+			"copies_coin": 100000,
+			"copies": 100,
+			"left": 100,
+			"copies_amount": 15500
+		}
+	],
+	"180": [
+		{
+			"name": "A180",
+			"basic_yield": 0.33,
+			"presented_yield": 0.17,
+			"annual_yield": 18,
+			"copies_coin": 1000,
+			"copies": 100,
+			"left": 100,
+			"copies_amount": 155
+		},
+		{
+			"name": "B180",
+			"basic_yield": 3.3,
+			"presented_yield": 2.7,
+			"annual_yield": 21.6,
+			"copies_coin": 10000,
+			"copies": 100,
+			"left": 100,
+			"copies_amount": 1550
+		},
+		{
+			"name": "C180",
+			"basic_yield": 33,
+			"presented_yield": 36.3,
+			"annual_yield": 24.95,
+			"copies_coin": 100000,
+			"copies": 100,
+			"left": 100,
+			"copies_amount": 15500
+		}
+	],
+	"360": [
+		{
+			"name": "A360",
+			"basic_yield": 0.33,
+			"presented_yield": 0.5,
+			"annual_yield": 29.88,
+			"copies_coin": 1000,
+			"copies": 100,
+			"left": 100,
+			"copies_amount": 155
+		},
+		{
+			"name": "B360",
+			"basic_yield": 3.3,
+			"presented_yield": 6.7,
+			"annual_yield": 36,
+			"copies_coin": 10000,
+			"copies": 100,
+			"left": 100,
+			"copies_amount": 1550
+		},
+		{
+			"name": "C360",
+			"basic_yield": 33,
+			"presented_yield": 87,
+			"annual_yield": 43.2,
+			"copies_coin": 100000,
+			"copies": 100,
+			"left": 100,
+			"copies_amount": 15500
+		}
+	]
+}

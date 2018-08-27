@@ -1,0 +1,70 @@
+body{
+  font-family: "Arial",sans-serif;
+}
+.banner-part h1{
+	font-size:36px;
+}
+.white-paper-box button{
+	background: #0276f7;
+	padding-left: 0;
+}
+/*.introduce-word p{
+	width: 1200px;
+}*/
+.team-box h6{
+	font-size: 16px;
+}
+
+.qrcode-box img:nth-of-type(3){
+
+}
+
+@media only screen and (min-width:1201px) and (max-width:1442px){
+	.nav-box li a{
+		padding: 0 10px;
+	}
+	.logo-box{
+		margin-right: 50px;
+	}
+	.head{
+		padding: 0 20px;
+	}
+}
+@media only screen and (max-width:1200px) {
+	.banner-part h1{
+		font-size: 14px;
+	}
+	.banner-part h4{
+		font-weight: normal;
+		font-size: 14px;
+	}
+	.introduce-word p{
+		width: 100%;
+		text-align: justify;
+		/*word-break: break-all;
+		word-wrap: break-word;*/
+		line-height: 1.5;
+	}
+	.technical-features{
+		height: 410px;
+	}
+	.technical-features p{
+		line-height: 1.5;
+		text-align: left;
+		/*word-break: break-all;
+		word-wrap: break-word;*/
+	}
+	.adviser h5{
+		width: 225px;
+	}
+	.application-box{
+		height: 465px;
+	}
+	.application-box .swiper-pagination-bullets{
+		bottom: 60px;
+	}
+	.team-content p{
+		/*word-break: normal;
+		word-wrap: normal;*/
+	}
+}
